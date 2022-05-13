@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+  
+}
+body{
+  background-color: wheat;
+}
+.home-page{
+  background-color: aqua;
+  border: solid 2px black;
+  padding: 44px;
+  align-items: center;
+  width: 40%;
+  height: 470px;
+  margin-top:272px;
+  margin-left:472px;
+  border-radius: 12px;
+}
+.home-page h1{
+  font-size: 45px;
+  padding:0 9px 0 9px;
+}
+.home-page h2{
+  font-size: 25px;
+  padding:15px;
+  color: red;
+  text-align: center;
+}
