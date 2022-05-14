@@ -115,4 +115,12 @@ header .formbx h2{
        align-items: center;
        font-size: 999px;
      }
-      
+      /*---form quiz styling---*/
+ .container{
+    background-color: aqua;
+    font-size: 27px;
+    font-weight:600;
+    margin-left: 2 rem;
+    height: auto;
+ }
+ .container
