@@ -28,6 +28,26 @@ body{
   color: red;
   text-align: center;
 }
+.header .take-quiz a {
+  left:90px;
+  font-size: 26px;
+  display: inline-block;
+  font-weight: 300;
+  letter-spacing: 2px;
+  color: white;
+  bottom: -79px;
+  text-decoration: none;
+  background-color:blue;
+  padding: 12px 34px;
+  border-radius: 10px;
+  position: relative;
+  cursor: pointer;    
+}
+.header .take-quiz ul li p{
+  font-size: 25px;
+  text-align: center;
+  
+}
 /*---form---*/
 header .formbx{
   width: 100%;
@@ -137,5 +157,11 @@ font-size: 38px
    font-size: 19px;
    padding:15px;
    margin: 32px 352px 0px;
+
+ }
+ /*---page4---*/
+ .conatain .container-1 h1{
+  color: blue;
+  font-size: 125px;
 
  }
