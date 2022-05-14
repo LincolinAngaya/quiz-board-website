@@ -123,6 +123,10 @@ header .formbx h2{
     margin-left: 2 rem;
     height: auto;
  }
+ .container .question h1{
+color:blue;
+font-size: 38px
+ }
  #btnn{
    background-color: red;
    color: white;
