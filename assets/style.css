@@ -127,6 +127,10 @@ header .formbx h2{
 color:blue;
 font-size: 38px
  }
+ .container .question #form1 div{
+  padding: 20px;
+   }
+ 
  #btnn{
    background-color: red;
    color: white;
