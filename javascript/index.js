@@ -1,1 +1,3 @@
-console.log("hello world")
+function output(){
+  document.write("hello world");
+}
