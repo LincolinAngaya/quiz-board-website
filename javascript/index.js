@@ -17,10 +17,11 @@ var form1=document.getElementById("form1");
   if(q4=="It is used to spread iterables to individual elements") {i++}
   if(q5=="learInterval") {i++}
   form1.style.display="none";
-    if (i<=3 ){
-  result.textContent=`your score is ${i/5*100}%`
+    if (i >=3 ){
+  result.textContent=`Your Score Is ${i/5*100}%.CONGRATULATION CODER` 
     }
     else{
-
+      result.textContent=`Your Score Is ${i/5*100}%.BELOW AVERAGE!` 
+    
     }
 }
