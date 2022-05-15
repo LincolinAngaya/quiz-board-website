@@ -128,13 +128,22 @@ font-size: 38px
    font-size: 19px;
    padding:15px;
    margin: 32px 352px 0px;
+   height: auto;
 
  }
- /*---class output---*/
- .output{
+ body #result{
+   margin-top: 30px;
    background-color: aqua;
-   width: 40%;
-   padding:140px;
+   height: 50vh;
+   font-weight: 600;
+   color: red;
+   font-size: 56px;
+  align-items: center;
+  text-align: center;
+  padding-top: 59px;
+  border: 3px solid black;
+  border-radius: 13px;
  }
+ 
  
  
