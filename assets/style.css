@@ -18,16 +18,17 @@ body{
   margin-left:472px;
   border-radius: 12px;
 }
-.home-page h1{
+header.home-page h1{
   font-size: 45px;
   padding:0 9px 0 9px;
 }
-.home-page h2,h1{
+header .home-page h2{
   font-size: 25px;
   padding:15px;
   color: red;
   text-align: center;
 }
+
 .header .take-quiz a {
   left:90px;
   font-size: 26px;
@@ -52,13 +53,13 @@ body{
 header .formbx{
   width: 100%;
   justify-content: center;
-  margin-left: 190px;
+  margin-left: 90px;
 }
 header .formbx h2{
- margin-left: -490px;
+ margin-left: -40px;
  color: blue;
  font-weight: 600px;
- font-size:52px;
+ font-size:22px;
  text-transform: uppercase;
  margin-bottom: 20px;
  letter-spacing: 1px;
@@ -90,21 +91,19 @@ header .formbx h2{
   
  }
 
- header .formbx .inputbx a
+     header .formbx .inputbax input
  { 
-   left:190px;
-    font-size: 26px;
-    display: inline-block;
-    font-weight: 300;
-    letter-spacing: 2px;
-    color: white;
-    text-decoration: none;
-    background-color:blue;
-    padding: 12px 34px;
-    border-radius: 12px;
-    position: relative;
-    cursor: pointer; 
-     }
+  font-size: 20px;
+  display: inline-block;
+  font-weight: 300;
+  color: white;
+  letter-spacing: 2px;
+  background-color:blue;
+  padding: 12px 34px;
+  border-radius: 10px;
+  position: relative;
+  cursor: pointer; 
+ }
 
      /*--page 2------*/
      .header{
@@ -159,6 +158,11 @@ font-size: 38px
    margin: 32px 352px 0px;
 
  }
- /*---page4---*/
+ /*---class output---*/
+ .output{
+   background-color: aqua;
+   width: 40%;
+   padding:140px;
+ }
  
  

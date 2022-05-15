@@ -12,10 +12,10 @@
 <body>
   <section class="container">
   <div class="question">
-    <h1>Questions</h1>
+    
     <form name="quiz" id="form1">
 
-
+      <h1>Questions</h1>
     <div>
       <p>1. Which of the following are not server-side Javascript objects? </p>
       <p><input type="radio" name="quiz1" value="Date">A. Date</p>
@@ -55,14 +55,23 @@
       <p><input type="radio" name="quiz5" value="intervalOver">C. intervalOver</p>
       <p><input type="radio" name="quiz5" value="None of the above">D.  None of the above</p>
     </div>
+    <input type="button" id="btnn" name="" value="SUBMIT" onclick="output()">
     
     </form>
+    
 
   </div>
 
-  <input type="button" id="btnn" name="" value="SUBMIT" onclick="output()">
-  <h1 id="result"></h1>
+  
+ 
 </section>
+<div class="output">
+  <div class="output1">
+  <h4>student Results</h4>
+  <p id="result"></p>
+</div>
+</div>
  
 </body>
+
 </html>
