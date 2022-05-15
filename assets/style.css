@@ -103,37 +103,9 @@ header .formbx h2{
   border-radius: 10px;
   position: relative;
   cursor: pointer; 
+  top: 70px;
  }
 
-     /*--page 2------*/
-     .header{
-    align-items: center;
-    text-align: center;
-    
-     }
-    
-     .header .quiz h1{
-      margin-left: -490px;
-      color: red;
-      font-weight: 600px;
-      font-size:52px;
-      text-transform: uppercase;
-      margin-bottom: 20px;
-      letter-spacing: 1px;
-     }
-     .header .quiz .take-quiz h2{
-      margin-left: -490px;
-      color: red;
-      font-weight: 600px;
-      font-size:52px;
-      text-transform: uppercase;
-      margin-bottom: 20px;
-      letter-spacing: 1px;
-     }
-     .header .quiz .take-quiz ul li {
-       align-items: center;
-       font-size: 999px;
-     }
       /*---form quiz styling---*/
  .container{
     background-color: aqua;
