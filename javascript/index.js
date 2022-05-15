@@ -21,7 +21,7 @@ var form1=document.getElementById("form1");
   result.textContent=`Your Score Is ${i/5*100}%.CONGRATULATION CODER` 
     }
     else{
-      result.textContent=`Your Score Is ${i/5*100}%.BELOW AVERAGE!` 
+      result.textContent=`Your Score Is ${i/5*100}%. BELOW AVERAGE!` 
     
     }
 }
