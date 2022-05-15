@@ -36,7 +36,7 @@ quiz board is a website  that allows a students  to have a quick test on Javascr
 ## Features
 As a user of the application,you will be able to :
 1.enter your credentials in order to go to your questios.
-1. you can view your results immedietly after taking quiz and press submit button.
+2. you can view your results immedietly after taking quiz and press submit button.
 
 ## how the form section works|
 | Behaviour      | Input        | Output       |
@@ -55,4 +55,4 @@ As a user of the application,you will be able to :
 No bugs are reported so far. Noticed any bug? KIndly contact me on lincolinangaya5626@gmail.com
 ## Legal and Copyright:
 This Application is license under the MIT licence. Get more info on my github account
-  Copyright © 2022; Lincoln Angaya.Inc.
+Copyright © 2022; Lincoln Angaya.Inc.
