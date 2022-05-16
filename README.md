@@ -44,7 +44,7 @@ As a user of the application,you will be able to :
 |  Enter your name  |   Lincolin Angaya |     |
 | Enter your Email Address  | lincolinangaya5626@gmail.com | 
 | Enter your credentials|  to the questions | |  results  | |  e.t.c  | 
-| Press submit to go to another page|  
+| Press submit to go to another page|  answer questions provided and submit
  ###  Requirements
  * Access to  a computer or any other gargdet(laptop,tablet and phone)
  * Access to  stable internet
