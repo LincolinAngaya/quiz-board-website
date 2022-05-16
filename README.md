@@ -50,7 +50,7 @@ As a user of the application,you will be able to :
  * Access to  stable internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone https://lincolinangaya.github.io/quiz-board-website/
+* Clone to thir repo : git clone https://git@github.com:LincolinAngaya/quiz-board-website.git
 ## Known Bugs:
 No bugs are reported so far. Noticed any bug? KIndly contact me on lincolinangaya5626@gmail.com
 ## Legal and Copyright:
